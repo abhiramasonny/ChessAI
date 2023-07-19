@@ -18,12 +18,10 @@ pip3 install -r requirements.txt
 
 
 ## Usage
-
-1. Clone the repository to your local machine:
-
    ```sh
    git clone https://github.com/abhiramasonny/ChessAI
    cd ChessAI
    pip3 install -r requirements.txt
    python3 main.py
    ```
+   The program will start a chess match between you and the BOT. *Make sure to win!!*
