@@ -27,6 +27,7 @@ pip3 install -r requirements.txt
    The program will start a chess match between you and the BOT. *Make sure to win!!*
 
 # NOTE
+1. 
 This AI workis with algebric notation, not standard chess notion. Meaning this is the syntax for inputing moves
 <br>
 ```sh
@@ -39,3 +40,6 @@ example
 e2e4
 ```
 This moves the pawn from e2 to e4
+
+2. 
+The default depth is 4 moves. If your computer cant handle it or you want it to be stronger, change the depth variable on **line 65** of **main.py**
